@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Users\\manro\\Desktop\\New folder\\NewQuickAction3D-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_info.png",
+        "source": "C:\\Users\\manro\\Desktop\\New folder\\NewQuickAction3D-master\\app\\src\\main\\res\\drawable\\menu_info.png"
+    },
+    {
+        "merged": "C:\\Users\\manro\\Desktop\\New folder\\NewQuickAction3D-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\action_item_selected.9.png",
+        "source": "C:\\Users\\manro\\Desktop\\New folder\\NewQuickAction3D-master\\app\\src\\main\\res\\drawable\\action_item_selected.9.png"
+    },
+    {
+        "merged": "C:\\Users\\manro\\Desktop\\New folder\\NewQuickAction3D-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_cancel.png",
+        "source": "C:\\Users\\manro\\Desktop\\New folder\\NewQuickAction3D-master\\app\\src\\main\\res\\drawable\\menu_cancel.png"
+    },
+    {
+        "merged": "C:\\Users\\manro\\Desktop\\New folder\\NewQuickAction3D-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.png",
+        "source": "C:\\Users\\manro\\Desktop\\New folder\\NewQuickAction3D-master\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\manro\\Desktop\\New folder\\NewQuickAction3D-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_search.png",
+        "source": "C:\\Users\\manro\\Desktop\\New folder\\NewQuickAction3D-master\\app\\src\\main\\res\\drawable\\menu_search.png"
+    },
+    {
+        "merged": "C:\\Users\\manro\\Desktop\\New folder\\NewQuickAction3D-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_up_arrow.png",
+        "source": "C:\\Users\\manro\\Desktop\\New folder\\NewQuickAction3D-master\\app\\src\\main\\res\\drawable\\menu_up_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\manro\\Desktop\\New folder\\NewQuickAction3D-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_ok.png",
+        "source": "C:\\Users\\manro\\Desktop\\New folder\\NewQuickAction3D-master\\app\\src\\main\\res\\drawable\\menu_ok.png"
+    },
+    {
+        "merged": "C:\\Users\\manro\\Desktop\\New folder\\NewQuickAction3D-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\popup.9.png",
+        "source": "C:\\Users\\manro\\Desktop\\New folder\\NewQuickAction3D-master\\app\\src\\main\\res\\drawable\\popup.9.png"
+    },
+    {
+        "merged": "C:\\Users\\manro\\Desktop\\New folder\\NewQuickAction3D-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\popup_menu.png",
+        "source": "C:\\Users\\manro\\Desktop\\New folder\\NewQuickAction3D-master\\app\\src\\main\\res\\drawable\\popup_menu.png"
+    },
+    {
+        "merged": "C:\\Users\\manro\\Desktop\\New folder\\NewQuickAction3D-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\action_item_btn.xml",
+        "source": "C:\\Users\\manro\\Desktop\\New folder\\NewQuickAction3D-master\\app\\src\\main\\res\\drawable\\action_item_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\manro\\Desktop\\New folder\\NewQuickAction3D-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_down_arrow.png",
+        "source": "C:\\Users\\manro\\Desktop\\New folder\\NewQuickAction3D-master\\app\\src\\main\\res\\drawable\\menu_down_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\manro\\Desktop\\New folder\\NewQuickAction3D-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu_eraser.png",
+        "source": "C:\\Users\\manro\\Desktop\\New folder\\NewQuickAction3D-master\\app\\src\\main\\res\\drawable\\menu_eraser.png"
+    }
+]

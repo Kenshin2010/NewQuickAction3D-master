@@ -1,0 +1,270 @@
+[
+    {
+        "outputFile": "C:\\Users\\manro\\Desktop\\New folder\\NewQuickAction3D-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 68,
+                    "endOffset": 119
+                },
+                "from": {
+                    "file": "C:\\Users\\manro\\Desktop\\New folder\\NewQuickAction3D-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 109,
+                        "endColumn": 68,
+                        "endOffset": 173
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 124,
+                    "endColumn": 53,
+                    "endOffset": 173
+                },
+                "from": {
+                    "file": "C:\\Users\\manro\\Desktop\\New folder\\NewQuickAction3D-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 53,
+                        "endOffset": 104
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 178,
+                    "endColumn": 30,
+                    "endOffset": 204
+                },
+                "from": {
+                    "file": "C:\\Users\\manro\\Desktop\\New folder\\NewQuickAction3D-master\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 1,
+                        "startOffset": 52,
+                        "endColumn": 28,
+                        "endOffset": 79
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 209,
+                    "endColumn": 42,
+                    "endOffset": 247
+                },
+                "from": {
+                    "file": "C:\\Users\\manro\\Desktop\\New folder\\NewQuickAction3D-master\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 1,
+                        "startOffset": 104,
+                        "endColumn": 40,
+                        "endOffset": 143
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 252,
+                    "endLine": 9,
+                    "endColumn": 9,
+                    "endOffset": 454
+                },
+                "from": {
+                    "file": "C:\\Users\\manro\\Desktop\\New folder\\NewQuickAction3D-master\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 1,
+                        "startOffset": 147,
+                        "endLine": 10,
+                        "endColumn": 9,
+                        "endOffset": 349
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 459,
+                    "endLine": 13,
+                    "endColumn": 9,
+                    "endOffset": 694
+                },
+                "from": {
+                    "file": "C:\\Users\\manro\\Desktop\\New folder\\NewQuickAction3D-master\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 1,
+                        "startOffset": 353,
+                        "endLine": 15,
+                        "endColumn": 9,
+                        "endOffset": 588
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 699,
+                    "endLine": 17,
+                    "endColumn": 9,
+                    "endOffset": 888
+                },
+                "from": {
+                    "file": "C:\\Users\\manro\\Desktop\\New folder\\NewQuickAction3D-master\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 1,
+                        "startOffset": 832,
+                        "endLine": 25,
+                        "endColumn": 9,
+                        "endOffset": 1021
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 893,
+                    "endLine": 21,
+                    "endColumn": 9,
+                    "endOffset": 1129
+                },
+                "from": {
+                    "file": "C:\\Users\\manro\\Desktop\\New folder\\NewQuickAction3D-master\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 1,
+                        "startOffset": 592,
+                        "endLine": 20,
+                        "endColumn": 9,
+                        "endOffset": 828
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1134,
+                    "endColumn": 40,
+                    "endOffset": 1170
+                },
+                "from": {
+                    "file": "C:\\Users\\manro\\Desktop\\New folder\\NewQuickAction3D-master\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 1,
+                        "startOffset": 1045,
+                        "endColumn": 38,
+                        "endOffset": 1082
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1175,
+                    "endLine": 26,
+                    "endColumn": 9,
+                    "endOffset": 1375
+                },
+                "from": {
+                    "file": "C:\\Users\\manro\\Desktop\\New folder\\NewQuickAction3D-master\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 1,
+                        "startOffset": 1086,
+                        "endLine": 33,
+                        "endColumn": 9,
+                        "endOffset": 1286
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1380,
+                    "endLine": 30,
+                    "endColumn": 9,
+                    "endOffset": 1613
+                },
+                "from": {
+                    "file": "C:\\Users\\manro\\Desktop\\New folder\\NewQuickAction3D-master\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 1,
+                        "startOffset": 1290,
+                        "endLine": 38,
+                        "endColumn": 9,
+                        "endOffset": 1523
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1618,
+                    "endLine": 34,
+                    "endColumn": 9,
+                    "endOffset": 1808
+                },
+                "from": {
+                    "file": "C:\\Users\\manro\\Desktop\\New folder\\NewQuickAction3D-master\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 1,
+                        "startOffset": 1765,
+                        "endLine": 48,
+                        "endColumn": 9,
+                        "endOffset": 1955
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 1813,
+                    "endLine": 38,
+                    "endColumn": 9,
+                    "endOffset": 2047
+                },
+                "from": {
+                    "file": "C:\\Users\\manro\\Desktop\\New folder\\NewQuickAction3D-master\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 1,
+                        "startOffset": 1527,
+                        "endLine": 43,
+                        "endColumn": 9,
+                        "endOffset": 1761
+                    }
+                }
+            }
+        ]
+    }
+]

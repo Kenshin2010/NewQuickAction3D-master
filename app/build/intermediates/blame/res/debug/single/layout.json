@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\manro\\Desktop\\New folder\\NewQuickAction3D-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\horiz_separator.xml",
+        "source": "C:\\Users\\manro\\Desktop\\New folder\\NewQuickAction3D-master\\app\\src\\main\\res\\layout\\horiz_separator.xml"
+    },
+    {
+        "merged": "C:\\Users\\manro\\Desktop\\New folder\\NewQuickAction3D-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\Users\\manro\\Desktop\\New folder\\NewQuickAction3D-master\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\manro\\Desktop\\New folder\\NewQuickAction3D-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\action_item_horizontal.xml",
+        "source": "C:\\Users\\manro\\Desktop\\New folder\\NewQuickAction3D-master\\app\\src\\main\\res\\layout\\action_item_horizontal.xml"
+    },
+    {
+        "merged": "C:\\Users\\manro\\Desktop\\New folder\\NewQuickAction3D-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popup_horizontal.xml",
+        "source": "C:\\Users\\manro\\Desktop\\New folder\\NewQuickAction3D-master\\app\\src\\main\\res\\layout\\popup_horizontal.xml"
+    },
+    {
+        "merged": "C:\\Users\\manro\\Desktop\\New folder\\NewQuickAction3D-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popup_vertical.xml",
+        "source": "C:\\Users\\manro\\Desktop\\New folder\\NewQuickAction3D-master\\app\\src\\main\\res\\layout\\popup_vertical.xml"
+    },
+    {
+        "merged": "C:\\Users\\manro\\Desktop\\New folder\\NewQuickAction3D-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\action_item_vertical.xml",
+        "source": "C:\\Users\\manro\\Desktop\\New folder\\NewQuickAction3D-master\\app\\src\\main\\res\\layout\\action_item_vertical.xml"
+    }
+]

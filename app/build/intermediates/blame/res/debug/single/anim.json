@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "C:\\Users\\manro\\Desktop\\New folder\\NewQuickAction3D-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\grow_from_bottomleft_to_topright.xml",
+        "source": "C:\\Users\\manro\\Desktop\\New folder\\NewQuickAction3D-master\\app\\src\\main\\res\\anim\\grow_from_bottomleft_to_topright.xml"
+    },
+    {
+        "merged": "C:\\Users\\manro\\Desktop\\New folder\\NewQuickAction3D-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\shrink_from_bottom.xml",
+        "source": "C:\\Users\\manro\\Desktop\\New folder\\NewQuickAction3D-master\\app\\src\\main\\res\\anim\\shrink_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\manro\\Desktop\\New folder\\NewQuickAction3D-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\grow_from_top.xml",
+        "source": "C:\\Users\\manro\\Desktop\\New folder\\NewQuickAction3D-master\\app\\src\\main\\res\\anim\\grow_from_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\manro\\Desktop\\New folder\\NewQuickAction3D-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\grow_from_bottomright_to_topleft.xml",
+        "source": "C:\\Users\\manro\\Desktop\\New folder\\NewQuickAction3D-master\\app\\src\\main\\res\\anim\\grow_from_bottomright_to_topleft.xml"
+    },
+    {
+        "merged": "C:\\Users\\manro\\Desktop\\New folder\\NewQuickAction3D-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\rail.xml",
+        "source": "C:\\Users\\manro\\Desktop\\New folder\\NewQuickAction3D-master\\app\\src\\main\\res\\anim\\rail.xml"
+    },
+    {
+        "merged": "C:\\Users\\manro\\Desktop\\New folder\\NewQuickAction3D-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\shrink_from_topleft_to_bottomright.xml",
+        "source": "C:\\Users\\manro\\Desktop\\New folder\\NewQuickAction3D-master\\app\\src\\main\\res\\anim\\shrink_from_topleft_to_bottomright.xml"
+    },
+    {
+        "merged": "C:\\Users\\manro\\Desktop\\New folder\\NewQuickAction3D-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\shrink_from_topright_to_bottomleft.xml",
+        "source": "C:\\Users\\manro\\Desktop\\New folder\\NewQuickAction3D-master\\app\\src\\main\\res\\anim\\shrink_from_topright_to_bottomleft.xml"
+    },
+    {
+        "merged": "C:\\Users\\manro\\Desktop\\New folder\\NewQuickAction3D-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\shrink_from_bottomright_to_topleft.xml",
+        "source": "C:\\Users\\manro\\Desktop\\New folder\\NewQuickAction3D-master\\app\\src\\main\\res\\anim\\shrink_from_bottomright_to_topleft.xml"
+    },
+    {
+        "merged": "C:\\Users\\manro\\Desktop\\New folder\\NewQuickAction3D-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\pump_top.xml",
+        "source": "C:\\Users\\manro\\Desktop\\New folder\\NewQuickAction3D-master\\app\\src\\main\\res\\anim\\pump_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\manro\\Desktop\\New folder\\NewQuickAction3D-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\pump_bottom.xml",
+        "source": "C:\\Users\\manro\\Desktop\\New folder\\NewQuickAction3D-master\\app\\src\\main\\res\\anim\\pump_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\manro\\Desktop\\New folder\\NewQuickAction3D-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\disappear.xml",
+        "source": "C:\\Users\\manro\\Desktop\\New folder\\NewQuickAction3D-master\\app\\src\\main\\res\\anim\\disappear.xml"
+    },
+    {
+        "merged": "C:\\Users\\manro\\Desktop\\New folder\\NewQuickAction3D-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\grow_from_bottom.xml",
+        "source": "C:\\Users\\manro\\Desktop\\New folder\\NewQuickAction3D-master\\app\\src\\main\\res\\anim\\grow_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\manro\\Desktop\\New folder\\NewQuickAction3D-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\shrink_from_top.xml",
+        "source": "C:\\Users\\manro\\Desktop\\New folder\\NewQuickAction3D-master\\app\\src\\main\\res\\anim\\shrink_from_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\manro\\Desktop\\New folder\\NewQuickAction3D-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\grow_from_topleft_to_bottomright.xml",
+        "source": "C:\\Users\\manro\\Desktop\\New folder\\NewQuickAction3D-master\\app\\src\\main\\res\\anim\\grow_from_topleft_to_bottomright.xml"
+    },
+    {
+        "merged": "C:\\Users\\manro\\Desktop\\New folder\\NewQuickAction3D-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\shrink_from_bottomleft_to_topright.xml",
+        "source": "C:\\Users\\manro\\Desktop\\New folder\\NewQuickAction3D-master\\app\\src\\main\\res\\anim\\shrink_from_bottomleft_to_topright.xml"
+    },
+    {
+        "merged": "C:\\Users\\manro\\Desktop\\New folder\\NewQuickAction3D-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\grow_from_topright_to_bottomleft.xml",
+        "source": "C:\\Users\\manro\\Desktop\\New folder\\NewQuickAction3D-master\\app\\src\\main\\res\\anim\\grow_from_topright_to_bottomleft.xml"
+    }
+]
